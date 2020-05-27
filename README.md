@@ -9,7 +9,7 @@ Features:
 - no JavaScript;
 - no flash player.
 
-Where to get it?
+Where to get it?<br>
 https://github.com/DexterLagan/auto-search/releases
 
 How to compile?<br>
