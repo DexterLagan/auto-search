@@ -1,7 +1,7 @@
 # auto-search
 A tiny Web browser that automatically searches U.S. Google for the contents of your clipboard. Handy for quickly looking up a word you just copied from any application.
 
-Features:
+<b>Features:</b>
 - tiny (main executable is just 2MB);
 - multi-platform (Windows, MacOSX, Linux);
 - loads instantly;
@@ -9,8 +9,8 @@ Features:
 - no JavaScript;
 - no flash player.
 
-Where to get it?<br>
+<b>Where to get it?</b><br>
 https://github.com/DexterLagan/auto-search/releases
 
-How to compile?<br>
+<b>How to Compile for My Platform?</b><br>
 The app is made with Xojo 2019r3.1. Simply download the project file and icon, then build a standalone executable for any platform.
