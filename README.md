@@ -10,6 +10,7 @@ Features:
 - no flash player.
 
 Where to get it?
+https://github.com/DexterLagan/auto-search/releases
 
-How to compile?
+How to compile?<br>
 The app is made with Xojo 2019r3.1. Simply download the project file and icon, then build a standalone executable for any platform.
