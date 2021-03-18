@@ -12,7 +12,7 @@ A tiny Web browser that automatically searches Google for the contents of your c
 
 # Downloads
 
-You can <b>download</b> the latest release for <b>Windows</b> [HERE](https://github.com/DexterLagan/newIDE/releases/tag/v1.0.133).
+You can <b>download</b> the latest release for <b>Windows</b> [HERE](https://github.com/DexterLagan/auto-search/releases/tag/v1.0).
 
 # Build Instructions
 The app is made with Xojo 2019r3.1. Simply download the project file and icon, then build a standalone executable for any platform.
