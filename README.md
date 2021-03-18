@@ -1,6 +1,8 @@
 # Auto-Search
 A tiny Web browser that automatically searches Google for the contents of your clipboard. Handy for quickly looking up a word you just copied from any application.
 
+<p align="center"><img src="Screenshots/MainWindow.PNG"></p>
+
 <b>Features:</b>
 - tiny (main executable is just 2MB);
 - multi-platform (Windows, MacOSX, Linux);
