@@ -18,3 +18,7 @@ You can <b>download</b> the latest release for <b>Windows</b> [HERE](https://git
 
 # Build Instructions
 The app is made with Xojo 2019r3.1. Simply download the project file and icon, then build a standalone executable for any platform.
+
+## License
+
+Auto-Search is free software; see [LICENSE](https://github.com/DexterLagan/auto-search/blob/main/LICENSE) for more details.
